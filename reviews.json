@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Introduction to Programming",
+        "stars": 4,
+        "review": "Dr. Smith is very knowledgeable and explains concepts clearly. His assignments are challenging but fair."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Data Structures",
+        "stars": 5,
+        "review": "Dr. Johnson makes complex topics easy to understand. Her lectures are engaging and well-organized."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Algorithms",
+        "stars": 3,
+        "review": "Dr. Brown's course is tough, but he provides helpful resources. The exams are difficult, but he offers good feedback."
+      },
+      {
+        "professor": "Dr. Sarah Davis",
+        "subject": "Computer Systems",
+        "stars": 4,
+        "review": "Dr. Davis is very approachable and her practical examples make the subject matter more interesting."
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "subject": "Software Engineering",
+        "stars": 2,
+        "review": "Dr. Wilson's course is poorly structured and lacks real-world applications. He is knowledgeable but not very engaging."
+      },
+      {
+        "professor": "Dr. Laura Martinez",
+        "subject": "Database Systems",
+        "stars": 5,
+        "review": "Dr. Martinez is excellent. Her lectures are clear and her assignments are very relevant to real-world scenarios."
+      },
+      {
+        "professor": "Dr. James Anderson",
+        "subject": "Operating Systems",
+        "stars": 3,
+        "review": "Dr. Anderson provides a lot of information, but his teaching style is a bit monotonous. The course is manageable with effort."
+      },
+      {
+        "professor": "Dr. Karen Lee",
+        "subject": "Computer Networks",
+        "stars": 4,
+        "review": "Dr. Lee is enthusiastic and knowledgeable. The course material is extensive, but she provides ample support."
+      },
+      {
+        "professor": "Dr. Robert Thompson",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "Dr. Thompson is a leading expert in AI. His classes are challenging but highly rewarding. Great lecturer!"
+      },
+      {
+        "professor": "Dr. Megan White",
+        "subject": "Machine Learning",
+        "stars": 4,
+        "review": "Dr. White is a great teacher with practical insights. The assignments are relevant and the course is well-structured."
+      },
+      {
+        "professor": "Dr. William Harris",
+        "subject": "Computer Graphics",
+        "stars": 3,
+        "review": "Dr. Harris's course is interesting but the pace can be slow. The projects are fun and help with understanding the material."
+      },
+      {
+        "professor": "Dr. Elizabeth Clark",
+        "subject": "Cybersecurity",
+        "stars": 5,
+        "review": "Dr. Clark's course is comprehensive and up-to-date with current trends in cybersecurity. Highly recommended."
+      },
+      {
+        "professor": "Dr. Daniel Lewis",
+        "subject": "Web Development",
+        "stars": 4,
+        "review": "Dr. Lewis provides practical examples and hands-on experience. The course is very applicable to real-world projects."
+      },
+      {
+        "professor": "Dr. Jessica Walker",
+        "subject": "Human-Computer Interaction",
+        "stars": 3,
+        "review": "Dr. Walker's lectures are informative but can be a bit dry. The course content is interesting and relevant."
+      },
+      {
+        "professor": "Dr. Andrew Hall",
+        "subject": "Compilers",
+        "stars": 2,
+        "review": "Dr. Hall's course is quite difficult and his teaching style is not very engaging. However, he is knowledgeable in the subject."
+      },
+      {
+        "professor": "Dr. Olivia Allen",
+        "subject": "Embedded Systems",
+        "stars": 4,
+        "review": "Dr. Allen is very experienced and provides good practical examples. The course is demanding but worthwhile."
+      },
+      {
+        "professor": "Dr. Christopher King",
+        "subject": "Theoretical Computer Science",
+        "stars": 3,
+        "review": "Dr. King covers a lot of material but his lectures can be hard to follow. The course requires a lot of self-study."
+      },
+      {
+        "professor": "Dr. Natalie Scott",
+        "subject": "Cloud Computing",
+        "stars": 5,
+        "review": "Dr. Scott is an excellent teacher. Her course on cloud computing is very relevant and she provides lots of useful resources."
+      },
+      {
+        "professor": "Dr. Joshua Wright",
+        "subject": "Bioinformatics",
+        "stars": 4,
+        "review": "Dr. Wright is knowledgeable and passionate about bioinformatics. His course is challenging but very rewarding."
+      },
+      {
+        "professor": "Dr. Amanda Green",
+        "subject": "Computer Vision",
+        "stars": 5,
+        "review": "Dr. Green is outstanding. Her course in computer vision is both challenging and exciting. Highly recommend her!"
+      }
+    ]
+  }  
